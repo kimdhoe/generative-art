@@ -2,6 +2,8 @@
 
 `Canvas` 활용법을 익히기 위한 시도로 매일 _generative art_ 한 점을 만들어내는 프로젝트입니다.
 
+![Generative art by kimdhoe](/images/002.png)
+
 ## Generative art
 
 코드를 이용해 무작위성이 가미된 작품을 만들어내는 예술의 한 분과입니다.
