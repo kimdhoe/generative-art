@@ -71,7 +71,7 @@ const draw3 = (context, ax, ay, bx, by) => {
 
   if (n > 1) {
     for (let i = 1; i < n; i++) {
-      drawLine(context, ax, ay + h / n * i, bx, ay + w / n * i)
+      drawLine(context, ax, ay + h / n * i, bx, ay + h / n * i)
     }
   } else {
     drawLine(context, ax, (ay + by) / 2, bx, (ay + by) / 2)
