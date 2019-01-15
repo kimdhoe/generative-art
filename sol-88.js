@@ -16,7 +16,6 @@ const sketch = () => {
     context.fillStyle = 'white'
     context.fillRect(0, 0, width, height)
 
-
     for (let i = 0; i < gridCount; i++) {
       if (i) {
         context.beginPath()
