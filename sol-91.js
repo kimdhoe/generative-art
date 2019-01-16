@@ -49,7 +49,7 @@ const drawCell = (context, ax, ay, bx, by) => {
     drawRandomLine(context, ax, ay, bx, by, color)
   })
 
-  const t = random.rangeFloor(0, 9)
+  const t = random.rangeFloor(0, 11)
 
   for (let i = 0; i < t; i++) {
     const c = random.pick(palette)
