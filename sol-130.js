@@ -8,7 +8,7 @@ const canvasSketch = require('canvas-sketch')
 const random = require('canvas-sketch-util/random')
 
 const SPACING = 50
-const LINE_WIDTH = 3
+const LINE_WIDTH = 2.5
 
 const settings = {
   dimensions: [ 600, 600 ]
